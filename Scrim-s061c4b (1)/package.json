@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s061c4b",
+  "description": "https://scrimba.com/learn-html-and-css-c0p/~05jq/s0pu6sj430/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
